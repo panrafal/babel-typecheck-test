@@ -1,0 +1,6 @@
+{
+  "devDependencies": {
+    "babel-plugin-typecheck": "^3.6.1",
+    "babel-plugin-syntax-flow": "^6.5.0"
+  }
+}
